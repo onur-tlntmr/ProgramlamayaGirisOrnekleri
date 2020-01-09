@@ -1,0 +1,2 @@
+Derleme esnasında linker hatası verilmemesi için g++ *.cpp kullanılması faydalı olabilir herhangi bir nedenden ötürü bu kullanılamıyorsa;
+g++ DefaultDirek.cpp  Direk.cpp  DirekTip1.cpp  DirekTip2.cpp  Main.cpp şeklinde derlenmesi gerekir.  
